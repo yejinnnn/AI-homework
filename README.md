@@ -28,6 +28,7 @@
 * 클라이언트를 터미널에서 실행하여 학습을 진행한다
 * 학습이 끝나면 Disconnect and shut down 된다
 
+
     INFO flower 2022-09-28 20:54:21,138 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
     INFO flower 2022-09-28 20:54:21,138 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
     DEBUG flower 2022-09-28 20:54:21,139 | connection.py:39 | ChannelConnectivity.IDLE
@@ -39,7 +40,7 @@
     DEBUG flower 2022-09-28 20:54:21,141 | connection.py:39 | ChannelConnectivity.IDLE
     DEBUG flower 2022-09-28 20:54:21,141 | connection.py:39 | ChannelConnectivity.CONNECTING
     DEBUG flower 2022-09-28 20:54:21,142 | connection.py:39 | ChannelConnectivity.READY
-    
+
     number : 30, subject number : 60
     number : 10, subject number : 57
     number : 22, subject number : 27
