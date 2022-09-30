@@ -25,6 +25,8 @@
 ![image](https://user-images.githubusercontent.com/48613073/192772045-0b7522a7-60ff-4016-9f7e-7bc202c87409.png)
 
 ## client.py 실행
+* 클라이언트를 터미널에서 실행하여 학습을 진행한다
+*
     INFO flower 2022-09-28 20:54:21,138 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
     INFO flower 2022-09-28 20:54:21,138 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
     DEBUG flower 2022-09-28 20:54:21,139 | connection.py:39 | ChannelConnectivity.IDLE
