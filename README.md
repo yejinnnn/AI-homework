@@ -9,7 +9,6 @@
   * 데이터 유출 위험이 줄고 커뮤니케이션 효율성이 올라감
  ### 연합학습이 처음 제안된 논문
  ### "Communication-Efficient Learning of Deep Networks from Decentralized Data (McMahan et al., 2016: https://arxiv.org/abs/1602.05629)"
-  ![image](https://user-images.githubusercontent.com/48613073/192775185-8f677b29-af47-4442-abdd-eeaa565b42b1.png)
 
 ***
 ## Femnist 데이터를 이용하여 연합학습 진행
